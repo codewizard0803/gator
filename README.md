@@ -1,4 +1,4 @@
-# csc648-sp19-Team05
+# Gatorbnb
 
 - SFSU housing / real estate website project
 
@@ -6,7 +6,7 @@
 
 # How to install Repository
 
-Down the Repo:
+Clone the repo:
 
 ```sh
 git clone https://github.com/CSC-648-SFSU/csc648-sp19-team05.git
@@ -26,11 +26,13 @@ npm install
 npm install
 ```
 
-- Set up the .env file with correct variable:
+- Navigate back to the root repo and create a new file .env
+- Set up the .env file with correct variables (username, password, port, database_name)
 
 ```sh
-LOCAL_DATABASE_URL=postgres://username:password@host:port/database
+LOCAL_DATABASE_URL=postgres://username:password@localhost:port/database_name
 BACKEND_URL=http://localhost:5000/api
+SESSION_SECRET=CATKEYBOARD
 ```
 
 - Migrate the database using Sequelize:
@@ -53,7 +55,7 @@ npm run db:seed
 npm run start:dev
 ```
 
-- Navigate to /client and run the following command to run React
+- Open a new terminal and navigate to /client and run the following command to run React
 
 ```sh
 npm start
