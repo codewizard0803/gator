@@ -1,8 +1,14 @@
 # Gatorbnb
 
-- SFSU housing / real estate website project
+- SFSU housing / real estate website full stack project
 
-## Development
+# Development
+
+- PostgreSQL
+- Express
+- ReactJS
+- NodeJS
+- NPM
 
 # How to install Repository
 
@@ -60,3 +66,66 @@ npm run start:dev
 ```sh
 npm start
 ```
+
+# Team Member Contribution
+
+### Peter Vinh Le (team lead)
+
+- Database design
+- Database migration / implementation
+- Manage / setting up production server and development environment
+- Set up vertical prototype / design
+- API endpoints / queries
+- API sessions
+- Photo file system / upload photos
+- 98 Github commits
+
+### Jawyn Sunga (front end lead)
+
+- Created pages/UI for landing page, home, filter, search, navbar, listing results, listing details, dashboard, and admin dashboard
+- Connected all the pages to the API
+- Fixed all the bugs/issues on the front end
+- Managed all the routes
+- Handled all the front end logic
+- 63 Github commits
+
+### Wesley Goldfisher (back end lead)
+
+- Database design
+- Database implementation
+- API endpoints
+- API authentication / registrationi
+- Admin authentication
+- Update admin routes
+- 11 Github commits
+
+### Anthony Owyeong 
+
+- Database design
+- Environment tester
+- Created disclaimers and welcoming messages
+- Milestones/documentation contributor
+- 6 Github commits
+
+### Tanya Wong
+
+- UI design
+- Created registration page/UI
+- Milestones/documentation contributor
+- 2 Github commits
+
+### Mehi Ledwon
+
+- UI design
+- Website logo
+- Created login page/UI
+- Milestones/documentation contributor
+- 3 Github commits
+
+### Hoang Dong
+
+- UI design
+- Created post listing page/UI
+- Milestones/documentation contributor
+- Brought snacks
+- 2 Github commits
