@@ -5,7 +5,7 @@
 # Development
 
 - PostgreSQL
-- Express
+- ExpressJS
 - ReactJS
 - NodeJS
 - NPM
