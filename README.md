@@ -1,9 +1,8 @@
 # Gatorbnb
-
 - SFSU housing / real estate website full stack project
+- Mobile friendly
 
 # Development
-
 - PostgreSQL
 - ExpressJS
 - ReactJS
