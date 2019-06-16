@@ -1,7 +1,7 @@
 # Gatorbnb
 - SFSU housing / real estate website full stack project
 - Mobile friendly
-- Demo URL: http://13.57.19.213/
+- Demo URL (Amazon EC2): http://13.57.19.213/
 
 # Development
 - PostgreSQL
