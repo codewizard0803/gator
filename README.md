@@ -10,6 +10,14 @@
 - NodeJS
 - NPM
 
+# Screenshots
+![alt text](https://i.imgur.com/6f8DvxQ.png)
+![alt text](https://i.imgur.com/wMwOd5K.png)
+![alt text](https://i.imgur.com/HKGkonJ.png)
+![alt text](https://i.imgur.com/k8mZ5k2.png)
+![alt text](https://i.imgur.com/YNbJ7SR.png)
+![alt text](https://i.imgur.com/dqY8Ryy.png)
+
 # How to install Repository
 
 Clone the repo:
